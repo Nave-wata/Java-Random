@@ -20,11 +20,15 @@ public class Sample203 {
         c2 *= 2;
         d2 /= 2;
 
+        // インクリメント演算
         a3++;
+
+        // デクリメント演算
         b3--;
 
         System.out.println("a1 = " + a1 + ", b1 = " + b1 + ", c1 = " + c1 + ", d1 = " + d1);
         System.out.println("a2 = " + a2 + ", b2 = " + b2 + ", c2 = " + c2 + ", d2 = " + d2);
-        System.out.println("a3++ = " + a3 + ", b3-- = " + b3);
+        System.out.println("a3++ = " + a3);
+        System.out.println("b3++ = " + b3);
     }
 }
