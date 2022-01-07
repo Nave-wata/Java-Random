@@ -1,4 +1,4 @@
-package day3;
+package day3.sample3;
 
 public class Sample304 {
 
