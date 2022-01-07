@@ -1,4 +1,4 @@
-package day1;
+package day1.sample1;
 
 public class Sample101 {
     /*
