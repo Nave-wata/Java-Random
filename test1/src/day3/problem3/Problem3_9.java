@@ -7,10 +7,10 @@ public class Problem3_9 {
 
         System.out.println("数値：" + num);
 
-        if (num <= 10 || 90 <= num) {
-            System.out.println("10以下か，90以上の値です");
+        if (num < 50) {
+            System.out.println("50未満の値です．");
         } else {
-            System.out.println("10より大きく，90未満の値です．");
+            System.out.println("50以上の値です．");
         }
     }
 }
