@@ -8,7 +8,7 @@ public class Problem5_12 {
 
         for (i = 0; i < data.length; i++) {
             for (j = 0; j < data[i].length; j++) {
-                data[i][j] = (int) (Math.random() * 10) + 1;
+                data[i][j] = (int) (Math.random() * 9) + 1;
             }
         }
 
