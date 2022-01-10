@@ -8,5 +8,7 @@ public class Problem6_2 {
 
         System.out.println(a + " + " + b + " = " + c.add(a, b));
         System.out.println(a + " - " + b + " = " + c.sub(a, b));
+        System.out.println(a + " * " + b + " = " + c.mul(a, b));
+        System.out.println(a + " / " + b + " = " + c.div(a, b));
     }
 }
