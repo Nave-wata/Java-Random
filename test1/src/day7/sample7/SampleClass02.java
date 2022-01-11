@@ -18,7 +18,7 @@ public class SampleClass02 {
     }
 
     // publicメソッド_2
-    public void method() {
+    public void method3() {
         // privateメソッドの呼び出し
         method1();
         System.out.println("method3(public): num = " + this.num);
