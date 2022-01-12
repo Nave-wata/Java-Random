@@ -30,10 +30,10 @@ public class Problem8_11 {
         }
 
         System.out.print("配列1：");
-        vm.printData(data1, SIZE);
+        vm.printArray(data1, SIZE);
 
         System.out.print("\n配列2：");
-        vm.printData(data2, SIZE);
+        vm.printArray(data2, SIZE);
 
         System.out.print("\nAND：");
         vm.printRandom(and_d, RANDOM_SIZE);
