@@ -40,7 +40,5 @@ public class Problem8_11 {
 
         System.out.print("\nOR：");
         vm.printRandom(or_d, RANDOM_SIZE);
-
-        System.out.println();
     }
 }
