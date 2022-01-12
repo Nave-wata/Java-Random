@@ -17,6 +17,6 @@ public class ProblemEx1_4 {
 
         System.out.println("c1のカウント数：" + c1.getCount());
         System.out.println("c2のカウント数：" + c2.getCount());
-        System.out.println("トータルカウント数：" + (c1.getCount() + c2.getCount()));
+        System.out.println("トータルカウント数：" + Counter.getTotalCount());
     }
 }
