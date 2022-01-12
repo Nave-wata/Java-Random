@@ -2,7 +2,7 @@ package fundamental.problem8;
 
 public class VariousMethod {
 
-    public void printData(int array[], int size) {
+    public void printArray(int array[], int size) {
         int i;
 
         for (i = 0; i < size; i++) {
