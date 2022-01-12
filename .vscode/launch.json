@@ -1,0 +1,692 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem1_1",
+            "request": "launch",
+            "mainClass": "fundamental.day1.problem1.Problem1_1",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem1_2",
+            "request": "launch",
+            "mainClass": "fundamental.day1.problem1.Problem1_2",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem1_3",
+            "request": "launch",
+            "mainClass": "fundamental.day1.problem1.Problem1_3",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem1_4",
+            "request": "launch",
+            "mainClass": "fundamental.day1.problem1.Problem1_4",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample101",
+            "request": "launch",
+            "mainClass": "fundamental.day1.sample1.Sample101",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample102",
+            "request": "launch",
+            "mainClass": "fundamental.day1.sample1.Sample102",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample103",
+            "request": "launch",
+            "mainClass": "fundamental.day1.sample1.Sample103",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem2_1",
+            "request": "launch",
+            "mainClass": "fundamental.day2.problem2.Problem2_1",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem2_2",
+            "request": "launch",
+            "mainClass": "fundamental.day2.problem2.Problem2_2",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample201",
+            "request": "launch",
+            "mainClass": "fundamental.day2.sample2.Sample201",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample202",
+            "request": "launch",
+            "mainClass": "fundamental.day2.sample2.Sample202",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample203",
+            "request": "launch",
+            "mainClass": "fundamental.day2.sample2.Sample203",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample204",
+            "request": "launch",
+            "mainClass": "fundamental.day2.sample2.Sample204",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample205",
+            "request": "launch",
+            "mainClass": "fundamental.day2.sample2.Sample205",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample206",
+            "request": "launch",
+            "mainClass": "fundamental.day2.sample2.Sample206",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_1",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_1",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_10",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_10",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_11",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_11",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_12",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_12",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_13",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_13",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_14",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_14",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_15",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_15",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_16",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_16",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_17",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_17",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_18",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_18",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_2",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_2",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_3",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_3",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_4",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_4",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_5",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_5",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_6",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_6",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_7",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_7",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_8",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_8",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem3_9",
+            "request": "launch",
+            "mainClass": "fundamental.day3.problem3.Problem3_9",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample301",
+            "request": "launch",
+            "mainClass": "fundamental.day3.sample3.Sample301",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample302",
+            "request": "launch",
+            "mainClass": "fundamental.day3.sample3.Sample302",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample303",
+            "request": "launch",
+            "mainClass": "fundamental.day3.sample3.Sample303",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample304",
+            "request": "launch",
+            "mainClass": "fundamental.day3.sample3.Sample304",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample305",
+            "request": "launch",
+            "mainClass": "fundamental.day3.sample3.Sample305",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_1",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_1",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_10",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_10",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_11",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_11",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_12",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_12",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_13",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_13",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_14",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_14",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_15",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_15",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_16",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_16",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_17",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_17",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_18",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_18",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_2",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_2",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_3",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_3",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_4",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_4",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_5",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_5",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_6",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_6",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_7",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_7",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_8",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_8",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem4_9",
+            "request": "launch",
+            "mainClass": "fundamental.day4.problem4.Problem4_9",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample401",
+            "request": "launch",
+            "mainClass": "fundamental.day4.sample4.Sample401",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample402",
+            "request": "launch",
+            "mainClass": "fundamental.day4.sample4.Sample402",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample403",
+            "request": "launch",
+            "mainClass": "fundamental.day4.sample4.Sample403",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample404",
+            "request": "launch",
+            "mainClass": "fundamental.day4.sample4.Sample404",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample405",
+            "request": "launch",
+            "mainClass": "fundamental.day4.sample4.Sample405",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample406",
+            "request": "launch",
+            "mainClass": "fundamental.day4.sample4.Sample406",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem5_1",
+            "request": "launch",
+            "mainClass": "fundamental.day5.problem5.Problem5_1",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem5_10",
+            "request": "launch",
+            "mainClass": "fundamental.day5.problem5.Problem5_10",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem5_11",
+            "request": "launch",
+            "mainClass": "fundamental.day5.problem5.Problem5_11",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem5_12",
+            "request": "launch",
+            "mainClass": "fundamental.day5.problem5.Problem5_12",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem5_13",
+            "request": "launch",
+            "mainClass": "fundamental.day5.problem5.Problem5_13",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem5_2",
+            "request": "launch",
+            "mainClass": "fundamental.day5.problem5.Problem5_2",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem5_3",
+            "request": "launch",
+            "mainClass": "fundamental.day5.problem5.Problem5_3",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem5_4",
+            "request": "launch",
+            "mainClass": "fundamental.day5.problem5.Problem5_4",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem5_5",
+            "request": "launch",
+            "mainClass": "fundamental.day5.problem5.Problem5_5",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem5_6",
+            "request": "launch",
+            "mainClass": "fundamental.day5.problem5.Problem5_6",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem5_7",
+            "request": "launch",
+            "mainClass": "fundamental.day5.problem5.Problem5_7",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem5_8",
+            "request": "launch",
+            "mainClass": "fundamental.day5.problem5.Problem5_8",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem5_9",
+            "request": "launch",
+            "mainClass": "fundamental.day5.problem5.Problem5_9",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample501",
+            "request": "launch",
+            "mainClass": "fundamental.day5.sample5.Sample501",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample502",
+            "request": "launch",
+            "mainClass": "fundamental.day5.sample5.Sample502",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample503",
+            "request": "launch",
+            "mainClass": "fundamental.day5.sample5.Sample503",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample504",
+            "request": "launch",
+            "mainClass": "fundamental.day5.sample5.Sample504",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample506",
+            "request": "launch",
+            "mainClass": "fundamental.day5.sample5.Sample506",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem6_1",
+            "request": "launch",
+            "mainClass": "fundamental.day6.Problem6.Problem6_1",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem6_2",
+            "request": "launch",
+            "mainClass": "fundamental.day6.Problem6.Problem6_2",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prolem6_3",
+            "request": "launch",
+            "mainClass": "fundamental.day6.Problem6.Prolem6_3",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample601",
+            "request": "launch",
+            "mainClass": "fundamental.day6.sample6.Sample601",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample602",
+            "request": "launch",
+            "mainClass": "fundamental.day6.sample6.Sample602",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem7_1",
+            "request": "launch",
+            "mainClass": "fundamental.day7.Problem7.Problem7_1",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem7_2",
+            "request": "launch",
+            "mainClass": "fundamental.day7.Problem7.Problem7_2",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem7_3",
+            "request": "launch",
+            "mainClass": "fundamental.day7.Problem7.Problem7_3",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample701",
+            "request": "launch",
+            "mainClass": "fundamental.day7.sample7.Sample701",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample702",
+            "request": "launch",
+            "mainClass": "fundamental.day7.sample7.Sample702",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem8_1",
+            "request": "launch",
+            "mainClass": "fundamental.problem8.Problem8_1",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem8_2",
+            "request": "launch",
+            "mainClass": "fundamental.problem8.Problem8_2",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem8_3",
+            "request": "launch",
+            "mainClass": "fundamental.problem8.Problem8_3",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem8_4",
+            "request": "launch",
+            "mainClass": "fundamental.problem8.Problem8_4",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem8_5",
+            "request": "launch",
+            "mainClass": "fundamental.problem8.Problem8_5",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem8_6",
+            "request": "launch",
+            "mainClass": "fundamental.problem8.Problem8_6",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App"
+        }
+    ]
+}
