@@ -3,6 +3,7 @@ package fundamental.problem8;
 public class Problem8_9 {
 
     public static void main(String[] args) {
+        VariousMethod vm = new VariousMethod();
         int data[] = new int[10];
         int gu[] = new int[10];
         int ki[] = new int[10];
@@ -25,13 +26,9 @@ public class Problem8_9 {
         }
 
         System.out.print("\n偶数：");
-        for (i = 0; i < cnt_gu; i++) {
-            System.out.print(gu[i] + ", ");
-        }
+        vm.printArray(gu, cnt_gu);
 
         System.out.print("\n奇数：");
-        for (i = 0; i < cnt_ki; i++) {
-            System.out.print(ki[i] + ", ");
-        }
+        vm.printArray(ki, cnt_ki);
     }
 }
