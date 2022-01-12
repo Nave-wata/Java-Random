@@ -18,11 +18,13 @@ public class VariousMethod {
         int i;
 
         for (i = 0; i < size; i++) {
-            if (i == size - 1) {
-                System.out.print((i + 1));
-                break;
+            if (array[i] == 1) {
+                if (i == size - 1) {
+                    System.out.print((i + 1));
+                    break;
+                }
+                System.out.print((i + 1) + ", ");
             }
-            System.out.print((i + 1) + ", ");
         }
     }
 }
