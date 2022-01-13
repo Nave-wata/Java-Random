@@ -1,0 +1,29 @@
+package applied.day2.sample2;
+
+public class Car {
+
+    private int fuel = 0; // 燃費
+    private int migration = 0; // 移動距離
+
+    public Car() {
+        System.out.println("オブジェクト生成");
+    }
+
+    // 移動メソッド
+    public void move() {
+        if (fuel > 0) {
+            migration++; // 移動
+            fuel--; // 燃料消費
+        }
+        System.out.println("移動距離：" + migration);
+        System.out.println("燃料：" + fuel);
+    }
+
+    // 燃料補給メソッド
+    public void supply(int fuel) {
+        if (fuel > 0) {
+            this.fuel += fuel; // 燃料補給
+        }
+        System.out.println("燃料：" + fuel);
+    }
+}
