@@ -1,6 +1,7 @@
 package applied.day1.sample1;
 
 public class SampleClassEx01 {
+
     private int value = 0;
     private static int num = 0;
 
