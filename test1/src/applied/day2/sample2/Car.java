@@ -6,7 +6,7 @@ public class Car {
     private int migration = 0; // 移動距離
 
     public Car() {
-        System.out.println("オブジェクト生成");
+        System.out.println("Carオブジェクト生成");
     }
 
     // 移動メソッド
