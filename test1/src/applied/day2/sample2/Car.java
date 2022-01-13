@@ -24,6 +24,6 @@ public class Car {
         if (fuel > 0) {
             this.fuel += fuel; // 燃料補給
         }
-        System.out.println("燃料：" + fuel);
+        System.out.println("燃料補給：" + fuel);
     }
 }
