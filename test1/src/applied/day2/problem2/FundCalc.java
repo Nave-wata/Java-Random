@@ -1,8 +1,8 @@
 package applied.day2.problem2;
 
 public class FundCalc {
-    private double number1 = 0.0;
-    private double number2 = 0.0;
+    public double number1 = 0.0;
+    public double number2 = 0.0;
 
     public void setNumber1(double number1) {
         this.number1 = number1;
