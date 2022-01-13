@@ -1,6 +1,6 @@
 package applied.day2.sample2;
 
-public class Ambulance {
+public class Ambulance extends Car {
 
     private int number = 119;
 
