@@ -3,7 +3,7 @@ package applied.exday3.exsample3;
 public abstract class Bird {
     private String name;
 
-    Bird(String name) {
+    Bird(String name) { // 引数付きコンストラクタ
         this.name = name;
     }
 
