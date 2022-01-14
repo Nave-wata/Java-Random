@@ -1,4 +1,4 @@
-package applied.day1.sample1;
+package applied.exday1.exsample1;
 
 public class SampleEx102 {
 

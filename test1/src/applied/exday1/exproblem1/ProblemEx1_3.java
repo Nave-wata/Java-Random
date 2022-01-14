@@ -1,4 +1,4 @@
-package applied.day1.problem1;
+package applied.exday1.exproblem1;
 
 public class ProblemEx1_3 {
 

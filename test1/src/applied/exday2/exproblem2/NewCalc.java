@@ -1,4 +1,4 @@
-package applied.day2.problem2;
+package applied.exday2.exproblem2;
 
 public class NewCalc extends FundCalc {
     public double mul() {

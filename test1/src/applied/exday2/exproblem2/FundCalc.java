@@ -1,4 +1,4 @@
-package applied.day2.problem2;
+package applied.exday2.exproblem2;
 
 public class FundCalc {
     public double number1 = 0.0;
