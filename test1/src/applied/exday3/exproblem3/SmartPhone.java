@@ -6,10 +6,14 @@ public class SmartPhone extends Computer {
     }
 
     public void input() {
-        System.out.println("キーボード・マウスで入力");
+        System.out.println("タッチパネルディスプレイをタップして操作");
     }
 
     public void output() {
-        System.out.println("ディスプレイに出力");
+        System.out.println("タッチパネルディスプレイに出力");
+    }
+
+    public void communication() {
+        System.out.println("インターネットと通信回線で通信");
     }
 }
