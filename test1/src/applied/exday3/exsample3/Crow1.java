@@ -1,6 +1,6 @@
 package applied.exday3.exsample3;
 
-public class Crow {
+public class Crow1 {
     private String name = "カラス";
 
     public String getName() {
