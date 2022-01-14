@@ -1,6 +1,6 @@
 package applied.exday3.exsample3;
 
-public class SampleClassEx302 {
+public class SampleEx302 {
     public static void main(String[] args) {
         Crow2 c = new Crow2();
         Sparrow2 s = new Sparrow2();
