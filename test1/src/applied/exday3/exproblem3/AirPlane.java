@@ -11,5 +11,5 @@ public abstract class AirPlane {
         return type;
     }
 
-    abstract String fly();
+    abstract void fly();
 }
