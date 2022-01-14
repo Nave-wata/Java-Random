@@ -1,10 +1,8 @@
 package applied.exday3.exproblem3;
 
-public class PassengerPlane {
-    private String type = "旅客機";
-
-    public String getType() {
-        return type;
+public class PassengerPlane extends AirPlane {
+    public PassengerPlane() {
+        super("旅客機");
     }
 
     // 飛行する
