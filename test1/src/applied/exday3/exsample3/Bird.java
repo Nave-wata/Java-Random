@@ -10,4 +10,7 @@ public abstract class Bird {
     public String getName() {
         return name;
     }
+
+    // 鳴く（抽象メソッド）
+    abstract void sing();
 }
