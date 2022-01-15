@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Quick_Sort",
+            "request": "launch",
+            "mainClass": "applied.exday5.exproblem5.Quick_Sort",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
             "name": "Launch ProblemEx5_7",
             "request": "launch",
             "mainClass": "applied.exday5.exproblem5.ProblemEx5_7",
