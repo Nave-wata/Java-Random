@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SampleEx402",
+            "request": "launch",
+            "mainClass": "applied.exday4.exsample4.SampleEx402",
+            "projectName": "Java_training_ec84eaa6"
+        },
+        {
+            "type": "java",
             "name": "Launch SampleEx401",
             "request": "launch",
             "mainClass": "applied.exday4.exsample4.SampleEx401",
