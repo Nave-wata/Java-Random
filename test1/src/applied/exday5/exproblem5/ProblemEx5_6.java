@@ -5,14 +5,14 @@ import java.util.*;
 public class ProblemEx5_6 {
     public static void main(String[] args) {
         ArrayList<Integer> arys = new ArrayList<Integer>();
-        int num = (int) (Math.random() * 10) + 1 - 1;
+        int num = (int) (Math.random() * 10) + 2 - 1;
         int i;
 
         System.out.println("0 ~ 10の値を出力：" + num);
 
         while (0 != num) {
             arys.add(num);
-            num = (int) (Math.random() * 10) + 1 - 1;
+            num = (int) (Math.random() * 10) + 2 - 1;
             System.out.println("0 ~ 10の値を出力：" + num);
         }
 
