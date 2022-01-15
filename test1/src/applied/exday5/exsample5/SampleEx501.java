@@ -3,6 +3,7 @@ package applied.exday5.exsample5;
 import java.util.*;
 
 public class SampleEx501 {
+    // 今出てる警告はSampleEx502.javaで解決する
     public static void main(String[] args) {
         ArrayList al = new ArrayList();
         int i;
