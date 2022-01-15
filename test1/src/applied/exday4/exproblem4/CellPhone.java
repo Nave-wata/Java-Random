@@ -1,6 +1,6 @@
 package applied.exday4.exproblem4;
 
-public class CellPhone {
+public class CellPhone implements IPhone, IMailer, IComputer {
     public void sendMail() {
         System.out.println("メールを送る");
     }
@@ -9,11 +9,15 @@ public class CellPhone {
         System.out.println("メールを受信する");
     }
 
-    public void playGame() {
+    public void borwseWeb() {
         System.out.println("ウェブを閲覧する");
     }
 
-    public void callPhon() {
+    public void playGame() {
+        System.out.println("ゲームをする");
+    }
+
+    public void callPhone() {
         System.out.println("電話をかける");
     }
 
