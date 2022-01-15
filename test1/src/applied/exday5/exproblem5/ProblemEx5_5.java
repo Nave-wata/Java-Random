@@ -18,12 +18,12 @@ public class ProblemEx5_5 {
             System.out.print("文字列を入力：");
             buf = br.readLine(); // ここで改行入る
         }
-        System.out.println(ary.size());
-        System.out.println(ary.get(0).length()); // 文字数取得
-        for (i = 0; i < ary.size(); i++) {
+
+        for (i = ary.size() - 1; 0 <= i; i--) {
             if (5 <= ary.get(i).length()) {
                 ary.remove(i);
-                System.out.print(ary.get(i).length());
+            } else {
+                // do nothing
             }
         }
 
