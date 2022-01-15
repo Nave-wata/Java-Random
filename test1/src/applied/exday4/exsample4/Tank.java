@@ -14,7 +14,7 @@ public class Tank extends Weapon implements ICar, ICannon {
     }
 
     public void attack() {
-        System.out.println(this.getName() + " の攻撃方法");
+        System.out.println(this.getName() + "の攻撃方法");
         System.out.println("---------------");
         fire();
         move();
