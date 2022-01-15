@@ -9,7 +9,7 @@ public class CellPhone implements IPhone, IEmail {
     }
 
     public void sendMail(String address) {
-        System.out.println(address + " に " + this.mailAddress + " からメールをｄします");
+        System.out.println(address + " に " + this.mailAddress + " からメールを出します");
     }
 
     public void call(String number) {
