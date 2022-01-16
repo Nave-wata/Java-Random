@@ -22,6 +22,5 @@ public class ProblemEx6_1 {
         } else {
             System.out.println("対応するデータは登録されていません．");
         }
-
     }
 }
