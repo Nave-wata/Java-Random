@@ -9,6 +9,7 @@ public class ProblemEx6_2 {
         BufferedReader br = new BufferedReader(isr);
         HashMap<String, String> hm = new HashMap<String, String>();
         ArrayList<String> al = new ArrayList<String>();
+        boolean flag = true;
 
         hm.put("0", "〇");
         hm.put("1", "一");
@@ -28,13 +29,22 @@ public class ProblemEx6_2 {
         String num[] = buf.split("");
         for (int i = 0; i < num.length; i++) {
             al.add(num[i]);
+            if (null == hm.get(num[i])) {
+                flag = false;
+            }
         }
 
-        for (int i = 0; i < num.length; i++) {
-            if ((num.length - i) % 3 == 0 && i != 0) {
-                System.out.print(",");
+        if (flag) {
+            System.out.print("交換結果：");
+
+            for (int i = 0; i < num.length; i++) {
+                if ((num.length - i) % 3 == 0 && i != 0) {
+                    System.out.print(",");
+                }
+                System.out.print(hm.get(al.get(i)));
             }
-            System.out.print(hm.get(al.get(i)));
+        } else {
+            System.out.print("整数の値を入力して下さい.");
         }
         System.out.println();
     }
