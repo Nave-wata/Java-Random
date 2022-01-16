@@ -8,6 +8,7 @@ public class ProblemEx6_2 {
         InputStreamReader isr = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(isr);
         HashMap<String, String> hm = new HashMap<String, String>();
+        ArrayList<String> al = new ArrayList<String>();
 
         hm.put("0", "〇");
         hm.put("1", "一");
@@ -25,12 +26,15 @@ public class ProblemEx6_2 {
         System.out.println();
 
         String num[] = buf.split("");
+        for (int i = 0; i < num.length; i++) {
+            al.add(num[i]);
+        }
 
         for (int i = 0; i < num.length; i++) {
-            if ((num.length - i) % 3 == 0) {
+            if ((num.length - i) % 3 == 0 && i != 0) {
                 System.out.print(",");
             }
-            System.out.print(hm.get(num[i]));
+            System.out.print(hm.get(al.get(i)));
         }
         System.out.println();
     }
