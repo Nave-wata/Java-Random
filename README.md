@@ -1,4 +1,4 @@
-# Java-training
+# Java-Random
 
 ## test1
 
