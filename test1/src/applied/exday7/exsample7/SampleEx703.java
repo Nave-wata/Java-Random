@@ -10,10 +10,10 @@ public class SampleEx703 {
                 System.out.print(a + " / " + b + " = ");
                 System.out.println(calc(a, b));
             }
-        } catch (ArithmeticException e) {
+        } catch (ArithmeticException e) { // calcの例外発生時にここ()内とthrows後のクラス一緒
             System.out.println();
             System.out.println("0による除算発生");
-        } catch (ArrayIndexOutOfBoundsException e) {
+        } catch (ArrayIndexOutOfBoundsException e) { // getNumの例外発生時ここ()内とthrows後のクラス一緒
             System.out.println("配列の範囲外にアクセスしました");
         } finally {
             System.out.println("終了");
