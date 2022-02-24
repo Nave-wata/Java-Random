@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_Random_ad12b5af"
+        },
+        {
+            "type": "java",
+            "name": "Launch db",
+            "request": "launch",
+            "mainClass": "db",
+            "projectName": "Java_Random_ad12b5af"
+        },
+        {
+            "type": "java",
             "name": "Launch ProblemEx7_2",
             "request": "launch",
             "mainClass": "applied.exday7.exproblem7.ProblemEx7_2",
